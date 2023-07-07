@@ -4,6 +4,7 @@
 目前文本来自于 @英俊渣男 的“天使纷扰英俊汉化1.0补丁”，并附带了由 [GPT RE-BOOT!](https://gpt-reboot.moe) 润色的 `【共通】01.ks.txt` 前半部分。
 
 ## 如何改进文本
+任选一种方法：
 - 【复刻】本仓库，开始你的修改；并在修改后发【Pull Requests】
 - 将修改后的文本发送予 `patch@gpt-reboot.moe` （注意该邮箱只能接收消息）
 - 将修改后的文本发送予 https://t.me/llm_model
