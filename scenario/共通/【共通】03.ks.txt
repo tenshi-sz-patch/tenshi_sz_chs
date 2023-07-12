@@ -698,7 +698,7 @@
 ☆nme00232☆ 天音
 
 ★txt00233★ %i1&stamp_EV201BA;
-☆txt00233☆ %i1&stamp_EV201BA；
+☆txt00233☆ %i1&stamp_EV201BA;
 
 ★scn00234★ 【共通】03
 ☆scn00234☆ 【共通】03
